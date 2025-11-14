@@ -303,18 +303,6 @@ The system is optimized for:
 - `.env` file included in `.gitignore`
 - CORS configured for frontend access
 
-## 📄 License
-
-[Specify your license here]
-
-## 👥 Contributing
-
-[Add contribution guidelines if applicable]
-
-## 📧 Contact
-
-[Add contact information]
-
 ## 🙏 Acknowledgments
 
 - SHL for providing the assessment catalog
