@@ -47,7 +47,7 @@ User Query → Embedding → FAISS Search (Top 20) → LLM Re-ranking → Final 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/UTSAVS26/Intelligent-SHL-Assessment-Recommendation-System.git
+   git clone https://github.com/nexus-x6/Intelligent-SHL-Assessment-Recommendation-System.git
    cd shl-recommender
    ```
 
